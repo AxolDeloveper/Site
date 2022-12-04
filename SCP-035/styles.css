@@ -1,0 +1,51 @@
+.menu {
+	position: absolute;
+	height: 3550px;
+	width: 290px;
+	background-color: gray;
+	
+}
+.menu .content li{
+	list-style-type: none;
+}
+.menu .content img{
+	margin-top: 30px;
+}
+.menu .content h2{
+	margin-left: 10px;
+	color: black;
+}
+body {
+	background-color: lightgrey;
+}
+.frame1 {
+	border-radius: 50px;
+	background-color: grey;
+	width: 1100px;
+	height: 600px;
+}
+.frame1 .img1 img {
+
+	border-radius: 50px;
+	border-width: 100px;
+	border-color: black;
+	margin-right: 50px;
+	box-shadow:  0 0 10px, rgba(26, 9, 9, 0.4);
+
+}
+
+
+.footer h1 {
+	margin-left: 1000px;
+	position: absolute;
+	margin-top: 100%;
+}
+.header1 button{
+	height: 90px;
+	width: 400px;
+	position: absolute;
+	margin-left: 942px;
+	top: 900px;
+	border-radius: 15px;
+	background-color: #708090;
+}
